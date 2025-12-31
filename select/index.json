@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Fellow Feeling",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T13:15:56.695249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fellow Feeling",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Fellow_Feeling_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fellow Feeling",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Fellow_Feeling_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fellow Feeling",
+      "artist": "PorterRobinsonVEVO",
+      "has_synced": true,
+      "path": "select/03_Fellow_Feeling_PorterRobinsonVEVO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fellow Feeling - Commentary",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Fellow_Feeling_-_Commentary_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fellow Feeling",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/05_Fellow_Feeling_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fellow Feeling - SLUMBERJACK Remix",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/06_Fellow_Feeling_-_SLUMBERJACK_Remix_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Porter Robinson - Fellow Feeling (Audio)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/07_Porter_Robinson_-_Fellow_Feeling_(Audio)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "fellow feeling - slumberjack remix",
+      "artist": "porter robinson/slumberjack",
+      "has_synced": true,
+      "path": "select/08_fellow_feeling_-_slumberjack_remix_porter_robinson_slumberjack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fellow Feeling (SLUMBERJACK Remix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/09_Fellow_Feeling_(SLUMBERJACK_Remix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fellow Feeling (Instrumental Mix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/10_Fellow_Feeling_(Instrumental_Mix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fellow Feeling",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Fellow_Feeling_Porter_Robinson.txt"
+    }
+  ]
+}
